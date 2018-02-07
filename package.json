@@ -1,0 +1,7 @@
+{
+  "name": "Virus-Express-Bot",
+  "version": "1.0.0",
+  "description": "Virus Express Bot",
+  "main": "bot.js",
+  "author": "Virus Express",
+  "dependencies": {}
